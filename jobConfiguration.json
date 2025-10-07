@@ -40,10 +40,10 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromSource",
+    "initMethod": "fromStorage",
     "runMigration": true,
     "additionalInitializationSteps": [],
-    "templateDBPath": "./src/cf/",
+    "templateDBPath": "C:/1c/DemoUP_JENKINS/DemoUP/1Cv8.1CD",
     "vrunnerSettings": "./tools/vrunner.json",
     "extensions": [
       {
