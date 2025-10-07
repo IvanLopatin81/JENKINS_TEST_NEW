@@ -3,6 +3,8 @@
   "default": {
     "--workspace": ".",
     "--additional": "/DisplayAllFunctions /Lru  /iTaxi /debug -http -attach /debuggerURL http://localhost:1550",
+    "--db-user": "Администратор",
+    "--dbms-pwd": "",
     "--ordinaryapp": "-1"
   },
   "run": {
