@@ -19,7 +19,7 @@
     "edtValidate": false,
     "smoke": false,
     "yaxunit": true,
-    "email": true,
+    "email": false,
     "telegram": false
   },
   "timeout": {
@@ -110,7 +110,7 @@
   },
   "notifications": {
     "email": {
-      "onAlways": true,
+      "onAlways": false,
       "onFailure": true,
       "onUnstable": false,
       "onSuccess": false,
@@ -149,7 +149,7 @@
       }
     },
     "telegram": {
-      "onAlways": true,
+      "onAlways": false,
       "onFailure": false,
       "onUnstable": false,
       "onSuccess": false
